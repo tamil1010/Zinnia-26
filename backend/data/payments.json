@@ -1,0 +1,297 @@
+{
+  "ZIN-2026-1231": {
+    "team_id": "ZIN-2026-1231",
+    "team_name": "Acceptance Squad 09196",
+    "college": "GCE Erode",
+    "department": "Computer Science and Engineering",
+    "year": "III",
+    "registered_events": [
+      "debugging",
+      "think-strike-and-win"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-1231-1",
+        "name": "Lead Attendee 09196",
+        "email": "lead_09196@gcee.ac.in",
+        "phone": "9876543210",
+        "is_leader": true,
+        "food_preference": "VEG"
+      },
+      {
+        "id": "ATT-2026-1231-2",
+        "name": "Partner Attendee 09196",
+        "email": "partner_09196@gcee.ac.in",
+        "phone": "9876543211",
+        "is_leader": false,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "UTR99909196001",
+    "submitted_amount": 500.0,
+    "expected_amount": 500,
+    "payment_status": "PENDING_VERIFICATION",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T11:50:13.473844+00:00",
+    "updated_at": "2026-09-05T11:53:48.944932+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  },
+  "ZIN-2026-3875": {
+    "team_id": "ZIN-2026-3875",
+    "team_name": "Acceptance Squad 09295",
+    "college": "GCE Erode",
+    "department": "Computer Science and Engineering",
+    "year": "III",
+    "registered_events": [
+      "debugging",
+      "think-strike-and-win"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-3875-1",
+        "name": "Lead Attendee 09295",
+        "email": "lead_09295@gcee.ac.in",
+        "phone": "9876543210",
+        "is_leader": true,
+        "food_preference": "VEG"
+      },
+      {
+        "id": "ATT-2026-3875-2",
+        "name": "Partner Attendee 09295",
+        "email": "partner_09295@gcee.ac.in",
+        "phone": "9876543211",
+        "is_leader": false,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "UTR99909295001",
+    "submitted_amount": 500.0,
+    "expected_amount": 500,
+    "payment_status": "VERIFIED",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T11:51:51.991819+00:00",
+    "updated_at": "2026-09-05T11:55:12.099779+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  },
+  "ZIN-2026-8562": {
+    "team_id": "ZIN-2026-8562",
+    "team_name": "Acceptance Squad 09429",
+    "college": "GCE Erode",
+    "department": "Computer Science and Engineering",
+    "year": "III",
+    "registered_events": [
+      "debugging",
+      "think-strike-and-win"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-8562-1",
+        "name": "Lead Attendee 09429",
+        "email": "lead_09429@gcee.ac.in",
+        "phone": "9876543210",
+        "is_leader": true,
+        "food_preference": "VEG"
+      },
+      {
+        "id": "ATT-2026-8562-2",
+        "name": "Partner Attendee 09429",
+        "email": "partner_09429@gcee.ac.in",
+        "phone": "9876543211",
+        "is_leader": false,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "UTR99909429001",
+    "submitted_amount": 500.0,
+    "expected_amount": 500,
+    "payment_status": "VERIFIED",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T11:54:05.394776+00:00",
+    "updated_at": "2026-09-05T11:57:25.842824+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  },
+  "ZIN-2026-7359": {
+    "team_id": "ZIN-2026-7359",
+    "team_name": "Acceptance Squad 09516",
+    "college": "GCE Erode",
+    "department": "Computer Science and Engineering",
+    "year": "III",
+    "registered_events": [
+      "debugging",
+      "think-strike-and-win"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-7359-1",
+        "name": "Lead Attendee 09516",
+        "email": "lead_09516@gcee.ac.in",
+        "phone": "9876543210",
+        "is_leader": true,
+        "food_preference": "VEG"
+      },
+      {
+        "id": "ATT-2026-7359-2",
+        "name": "Partner Attendee 09516",
+        "email": "partner_09516@gcee.ac.in",
+        "phone": "9876543211",
+        "is_leader": false,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "UTR99909516001",
+    "submitted_amount": 500.0,
+    "expected_amount": 500,
+    "payment_status": "VERIFIED",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T11:55:32.55082+00:00",
+    "updated_at": "2026-09-05T11:59:08.042084+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  },
+  "ZIN-2026-3614": {
+    "team_id": "ZIN-2026-3614",
+    "team_name": "Acceptance Squad 09614",
+    "college": "GCE Erode",
+    "department": "Computer Science and Engineering",
+    "year": "III",
+    "registered_events": [
+      "debugging",
+      "think-strike-and-win"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-3614-1",
+        "name": "Lead Attendee 09614",
+        "email": "lead_09614@gcee.ac.in",
+        "phone": "9876543210",
+        "is_leader": true,
+        "food_preference": "VEG"
+      },
+      {
+        "id": "ATT-2026-3614-2",
+        "name": "Partner Attendee 09614",
+        "email": "partner_09614@gcee.ac.in",
+        "phone": "9876543211",
+        "is_leader": false,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "UTR99909614001",
+    "submitted_amount": 500.0,
+    "expected_amount": 500,
+    "payment_status": "VERIFIED",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T11:57:10.846626+00:00",
+    "updated_at": "2026-09-05T12:01:00.446423+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  },
+  "ZIN-2026-4749": {
+    "team_id": "ZIN-2026-4749",
+    "team_name": "Acceptance Squad 10024",
+    "college": "GCE Erode",
+    "department": "Computer Science and Engineering",
+    "year": "III",
+    "registered_events": [
+      "debugging",
+      "think-strike-and-win"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-4749-1",
+        "name": "Lead Attendee 10024",
+        "email": "lead_10024@gcee.ac.in",
+        "phone": "9876543210",
+        "is_leader": true,
+        "food_preference": "VEG"
+      },
+      {
+        "id": "ATT-2026-4749-2",
+        "name": "Partner Attendee 10024",
+        "email": "partner_10024@gcee.ac.in",
+        "phone": "9876543211",
+        "is_leader": false,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "UTR99910024001",
+    "submitted_amount": 500.0,
+    "expected_amount": 500,
+    "payment_status": "VERIFIED",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T12:04:00.40311+00:00",
+    "updated_at": "2026-09-05T12:07:21.099657+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  },
+  "ZIN-2026-1571": {
+    "team_id": "ZIN-2026-1571",
+    "team_name": "Acceptance Squad 10671",
+    "college": "GCE Erode",
+    "department": "Computer Science and Engineering",
+    "year": "III",
+    "registered_events": [
+      "debugging",
+      "think-strike-and-win"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-1571-1",
+        "name": "Lead Attendee 10671",
+        "email": "lead_10671@gcee.ac.in",
+        "phone": "9876543210",
+        "is_leader": true,
+        "food_preference": "VEG"
+      },
+      {
+        "id": "ATT-2026-1571-2",
+        "name": "Partner Attendee 10671",
+        "email": "partner_10671@gcee.ac.in",
+        "phone": "9876543211",
+        "is_leader": false,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "UTR99910671001",
+    "submitted_amount": 500.0,
+    "expected_amount": 500,
+    "payment_status": "VERIFIED",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T12:14:47.107048+00:00",
+    "updated_at": "2026-09-05T12:18:22.083766+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  },
+  "ZIN-2026-8655": {
+    "team_id": "ZIN-2026-8655",
+    "team_name": "DEMO",
+    "college": "GCEE",
+    "department": "CSE",
+    "year": "IV",
+    "registered_events": [
+      "paper-presentation"
+    ],
+    "members": [
+      {
+        "id": "ATT-2026-8655-1",
+        "name": "Tamilvani S",
+        "email": "limatinav2005@gmail.com",
+        "phone": "8987654321",
+        "is_leader": true,
+        "food_preference": "NON_VEG"
+      }
+    ],
+    "utr_number": "DEMO20260831001",
+    "submitted_amount": 250.0,
+    "expected_amount": 250,
+    "payment_status": "VERIFIED",
+    "rejection_reason": null,
+    "created_at": "2026-09-05T12:22:31.305972+00:00",
+    "updated_at": "2026-09-05T12:26:19.476404+00:00",
+    "payer_upi_id": null,
+    "screenshot_url": null
+  }
+}

@@ -1,0 +1,15 @@
+flask>=2.3.0
+flask-cors>=5.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Password hashing for admin/coordinator login (auth_service.py)
+bcrypt>=4.1.0
+
+# Local QR generation for passport emails — no third-party QR service is used
+qrcode>=7.4.2
+pillow>=10.0.0
+
+# Production WSGI server. Do not run app.run() in production.
+#   gunicorn --bind 0.0.0.0:5000 --workers 4 'app:app'
+gunicorn>=21.2.0
